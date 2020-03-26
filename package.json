@@ -11,8 +11,8 @@
   "contributes": {
     "snippets": [
       {
-        "language": "javascript",
-        "path": "./snippets.json"
+        "language": "meo",
+        "path": "./matheco.code-snippets.json"
       }
     ]
   },
