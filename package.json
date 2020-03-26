@@ -3,7 +3,7 @@
   "repository": "https://github.com/splimter/snippet-matheco",
   "displayName": "Matheco Snippet",
   "description": "Snippet for matheco",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "publisher": "splimter",
   "engines": {
     "vscode": "^1.28.0"
@@ -11,7 +11,7 @@
   "contributes": {
     "languages": [
       {
-        "id": "meo",
+        "id": "plaintext",
         "extensions": [
           ".meo"
         ],
