@@ -1,0 +1,22 @@
+{
+  "name": "snippet-matheco",
+  "repository": "https://github.com/splimter/snippet-matheco",
+  "displayName": "Matheco Snippet",
+  "description": "Snippet for matheco",
+  "version": "1.0.0",
+  "publisher": "splimter",
+  "engines": {
+		"vscode": "^1.28.0"
+	},
+  "contributes": {
+    "snippets": [
+      {
+        "language": "javascript",
+        "path": "./snippets.json"
+      }
+    ]
+  },
+  "categories": [
+    "Snippets"
+  ]
+}
