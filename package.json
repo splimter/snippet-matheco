@@ -6,9 +6,20 @@
   "version": "1.0.1",
   "publisher": "splimter",
   "engines": {
-		"vscode": "^1.28.0"
-	},
+    "vscode": "^1.28.0"
+  },
   "contributes": {
+    "languages": [
+      {
+        "id": "meo",
+        "extensions": [
+          ".meo"
+        ],
+        "aliases": [
+          "matheco"
+        ]
+      }
+    ],
     "snippets": [
       {
         "language": "meo",
