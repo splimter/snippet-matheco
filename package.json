@@ -3,7 +3,7 @@
   "repository": "https://github.com/splimter/snippet-matheco",
   "displayName": "Matheco Snippet",
   "description": "Snippet for matheco",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "publisher": "splimter",
   "engines": {
     "vscode": "^1.28.0"
