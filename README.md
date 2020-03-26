@@ -1,5 +1,5 @@
 # snippet-matheco
-Snippets for matheco for VS Code
+Snippets for matheco.
 
 matheco is a sort of language based on C build by love :heart: and bison/flex, it is still under development :construction: by the way.
 
