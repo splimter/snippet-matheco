@@ -1,0 +1,179 @@
+{
+	"max": {
+		"prefix": "max",
+		"body": [
+			"max('$1');",
+			"$2"
+		],
+		"description": "get the max from the passed vaules."
+	},
+	"min": {
+		"prefix": "min",
+		"body": [
+			"min('$1');",
+			"$2"
+		],
+		"description": "get the min from the passed vaules."
+	},
+	"sort": {
+		"prefix": "sort",
+		"body": [
+			"sort('$1');",
+			"$2"
+		],
+		"description": "sort the passed vaules."
+	},
+	"add": {
+		"prefix": "add",
+		"body": [
+			"add('$1');",
+			"$2"
+		],
+		"description": "add the passed vaules and return the result."
+	},
+	"mul": {
+		"prefix": "mul",
+		"body": [
+			"mul('$1');",
+			"$2"
+		],
+		"description": "multiply the passed vaules and return the result."
+	},
+	"sub": {
+		"prefix": "sub",
+		"body": [
+			"sub('$1');",
+			"$2"
+		],
+		"description": "substract all the passed vaules and return the result."
+	},
+	"div": {
+		"prefix": "div",
+		"body": [
+			"div('$1');",
+			"$2"
+		],
+		"description": "divide all the passed vaules and return the result."
+	},
+	"fact": {
+		"prefix": "fact",
+		"body": [
+			"fact('$1');",
+			"$2"
+		],
+		"description": "return the result of calculated factoriel."
+	},
+	"sqrt": {
+		"prefix": "sqrt",
+		"body": [
+			"sqrt('$1');",
+			"$2"
+		],
+		"description": "return the result of the square root."
+	},
+	"pow": {
+		"prefix": "pow",
+		"body": [
+			"pow('$1');",
+			"$2"
+		],
+		"description": "return the result of the power."
+	},
+	"exp": {
+		"prefix": "exp",
+		"body": [
+			"exp('$1');",
+			"$2"
+		],
+		"description": "return the result of the expenetial."
+	},
+	"log": {
+		"prefix": "log",
+		"body": [
+			"log('$1');",
+			"$2"
+		],
+		"description": "return the result of the logarethmic."
+	},
+	"cos": {
+		"prefix": "cos",
+		"body": [
+			"cos('$1');",
+			"$2"
+		],
+		"description": "return the result of the cos."
+	},
+	"sin": {
+		"prefix": "sin",
+		"body": [
+			"sin('$1');",
+			"$2"
+		],
+		"description": "return the result of the sin."
+	},
+	"tan": {
+		"prefix": "tan",
+		"body": [
+			"tan('$1');",
+			"$2"
+		],
+		"description": "return the result of the tan."
+	},
+	"cosr": {
+		"prefix": "cosr",
+		"body": [
+			"cosr('$1');",
+			"$2"
+		],
+		"description": "return the result of the cosr."
+	},
+	"sinr": {
+		"prefix": "sinr",
+		"body": [
+			"sinr('$1');",
+			"$2"
+		],
+		"description": "return the result of the sinr."
+	},
+	"tanr": {
+		"prefix": "tanr",
+		"body": [
+			"tanr('$1');",
+			"$2"
+		],
+		"description": "return the result of the tanr."
+	},
+	"eq": {
+		"prefix": "eq",
+		"body": [
+			"eq('$1');",
+			"$2"
+		],
+		"description": "return true if they are equals else false."
+	},
+	"neq": {
+		"prefix": "neq",
+		"body": [
+			"neq('$1');",
+			"$2"
+		],
+		"description": "return true if they don't equals else false."
+	},
+	"geq": {
+		"prefix": "geq",
+		"body": [
+			"geq('$1');",
+			"$2"
+		],
+		"description": "return true if the first value is greater then the second else false."
+	},
+	"leq": {
+		"prefix": "leq",
+		"body": [
+			"leq('$1');",
+			"$2"
+		],
+		"description": "return true if the first value is less then the second else false."
+	}
+}
+	
