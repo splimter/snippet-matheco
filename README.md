@@ -1,7 +1,7 @@
 # snippet-matheco
 Snippets for matheco for VS Code
 
-You can get the programe from [here]().
+You can get the programe from [here](https://raw.githubusercontent.com/splimter/snippet-matheco/master/matheco.exe).
 
 Quick Start:
 * make a file with `.meo` type **e.g: test.meo**.
