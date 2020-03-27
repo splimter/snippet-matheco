@@ -1,67 +1,88 @@
 'source.meo':
-	"max":
-		"prefix": "max"
-		"body": "max($1);$2"
-	"min": 
-		"prefix": "min"
-		"body": "min($1);$2"
-	"sort":
-		"prefix": "sort"
-		"body": "sort($1);$2"
-  	"add":
-		"prefix": "add"
-		"body": "add($1);$2"
-	"mul":
-		"prefix": "mul"
-		"body": "mul($1);$2"
-	"sub":
-		"prefix": "sub"
-		"body": "sub($1);$2"
-	"div":
-		"prefix": "div"
-		"body": "div($1);$2"
-	"fact":
-		"prefix": "fact"
-		"body": "fact($1);$2"
-	"sqrt":
-		"prefix": "sqrt"
-		"body": "sqrt($1);$2"
-	"pow":
-		"prefix": "pow"
-		"body": "pow($1);$2"
-	"exp":
-		"prefix": "exp"
-		"body": "exp($1);$2"
-	"log":
-		"prefix": "log"
-		"body": "log($1);$2"
-	"cos":
-		"prefix": "cos"
-		"body": "cos($1);$2"
-	"sin":
-		"prefix": "sin"
-		"body": "sin($1);$2"
-	"tan":
-		"prefix": "tan"
-		"body": "tan($1);$2"
-	"cosr":
-		"prefix": "cosr"
-		"body": "cosr($1);$2"
-	"sinr":
-		"prefix": "sinr"
-		"body": "sinr($1);$2"
-	"tanr":
-		"prefix": "tanr"
-		"body": "tanr($1);$2"
-	"eq":
-		"prefix": "eq"
-		"body": "eq($1);$2"
-	"neq":
-		"prefix": "neq"
-		"body": "neq($1);$2"
-	"geq":
-		"prefix": "geq"
-		"body": "geq($1);$2"
-	"leq":
-		"prefix": "leq"
-		"body": "leq($1);$2"
+	'max':
+		'prefix': 'max'
+		'body': 'max($1);$2'
+
+	'min': 
+		'prefix': 'min'
+		'body': 'min($1);$2'
+
+	'sort':
+		'prefix': 'sort'
+		'body': 'sort($1);$2'
+
+  	'add':
+		'prefix': 'add'
+		'body': 'add($1);$2'
+
+	'mul':
+		'prefix': 'mul'
+		'body': 'mul($1);$2'
+
+	'sub':
+		'prefix': 'sub'
+		'body': 'sub($1);$2'
+
+	'div':
+		'prefix': 'div'
+		'body': 'div($1);$2'
+
+	'fact':
+		'prefix': 'fact'
+		'body': 'fact($1);$2'
+
+	'sqrt':
+		'prefix': 'sqrt'
+		'body': 'sqrt($1);$2'
+
+	'pow':
+		'prefix': 'pow'
+		'body': 'pow($1);$2'
+
+	'exp':
+		'prefix': 'exp'
+		'body': 'exp($1);$2'
+
+	'log':
+		'prefix': 'log'
+		'body': 'log($1);$2'
+
+	'cos':
+		'prefix': 'cos'
+		'body': 'cos($1);$2'
+
+	'sin':
+		'prefix': 'sin'
+		'body': 'sin($1);$2'
+
+	'tan':
+		'prefix': 'tan'
+		'body': 'tan($1);$2'
+
+	'cosr':
+		'prefix': 'cosr'
+		'body': 'cosr($1);$2'
+
+	'sinr':
+		'prefix': 'sinr'
+		'body': 'sinr($1);$2'
+
+	'tanr':
+		'prefix': 'tanr'
+		'body': 'tanr($1);$2'
+
+	'eq':
+		'prefix': 'eq'
+		'body': 'eq($1);$2'
+
+	'neq':
+		'prefix': 'neq'
+		'body': 'neq($1);$2'
+
+	'geq':
+		'prefix': 'geq'
+		'body': 'geq($1);$2'
+
+	'leq':
+		'prefix': 'leq'
+		'body': 'leq($1);$2'
