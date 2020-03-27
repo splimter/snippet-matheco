@@ -1,12 +1,12 @@
 {
   "name": "snippet-matheco",
-  "repository": "https://github.com/splimter/snippet-matheco",
   "displayName": "Matheco",
   "description": "Snippet and Syntax highlight for matheco",
   "version": "1.2.1",
   "publisher": "splimter",
   "engines": {
-    "vscode": "^1.28.0"
+    "vscode": "^1.28.0",
+    "atom": "*"
   },
   "contributes": {
     "languages": [
@@ -37,5 +37,13 @@
   },
   "categories": [
     "Snippets"
-  ]
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/splimter/snippet-matheco"
+  },
+  "bugs": {
+    "url": "https://github.com/splimter/snippet-matheco/issues"
+  },
+  "license": "MIT"
 }
