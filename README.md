@@ -3,7 +3,7 @@ Snippet and Syntax highlight for matheco.
 
 matheco is a sort of language based on C build by love :heart: and bison/flex, it is still under development :construction: by the way.
 
-You can get the programe from [here](https://raw.githubusercontent.com/splimter/snippet-matheco/master/matheco.exe).
+You can get the compiler from [here](https://raw.githubusercontent.com/splimter/snippet-matheco/master/matheco.exe).
 
 Quick Start:
 * make a file with `.meo` type **e.g: test.meo**.
