@@ -2,7 +2,7 @@
   "name": "snippet-matheco",
   "displayName": "Matheco",
   "description": "Snippet and Syntax highlight for matheco",
-  "version": "1.4.12",
+  "version": "1.4.13",
   "publisher": "splimter",
   "engines": {
     "vscode": "^1.28.0",
