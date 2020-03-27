@@ -8,7 +8,7 @@
 	"sort":
 		"prefix": "sort"
 		"body": "sort($1);$2"
-  "add":
+  	"add":
 		"prefix": "add"
 		"body": "add($1);$2"
 	"mul":
