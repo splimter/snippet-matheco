@@ -11,9 +11,9 @@
 		'prefix': 'sort'
 		'body': 'sort($1);$2'
 
-	# 'add':
-	# 	'prefix': 'add'
-	# 	'body': 'add($1);$2'
+	'add':
+		'prefix': 'add'
+		'body': 'add($1);$2'
 
 	'mul':
 		'prefix': 'mul'
