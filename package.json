@@ -1,9 +1,9 @@
 {
   "name": "snippet-matheco",
   "repository": "https://github.com/splimter/snippet-matheco",
-  "displayName": "Matheco Snippet",
-  "description": "Snippet for matheco",
-  "version": "1.1.2",
+  "displayName": "Matheco",
+  "description": "Snippet and Syntax highlight for matheco",
+  "version": "1.2.0",
   "publisher": "splimter",
   "engines": {
     "vscode": "^1.28.0"
@@ -17,13 +17,21 @@
         ],
         "aliases": [
           "matheco"
-        ]
+        ],
+        "configuration": "./language-configuration.json"
       }
     ],
     "snippets": [
       {
         "language": "matheco",
         "path": "./snippets.json"
+      }
+    ],
+    "grammars": [
+      {
+        "language": "matheco",
+        "scopeName": "source.meo",
+        "path": "./matheco.tmLanguage.json"
       }
     ]
   },
