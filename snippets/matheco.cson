@@ -1,4 +1,4 @@
-'source.meo':
+'.source.meo':
 	'max':
 		'prefix': 'max'
 		'body': 'max($1);$2'
