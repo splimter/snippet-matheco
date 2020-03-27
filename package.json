@@ -18,20 +18,20 @@
         "aliases": [
           "matheco"
         ],
-        "configuration": "./language-configuration.json"
+        "configuration": "./settings/language-configuration.json"
       }
     ],
     "snippets": [
       {
         "language": "matheco",
-        "path": "./snippets.json"
+        "path": "./snippets/snippets.json"
       }
     ],
     "grammars": [
       {
         "language": "matheco",
         "scopeName": "source.meo",
-        "path": "./matheco.tmLanguage.json"
+        "path": "./grammars/matheco.tmLanguage.json"
       }
     ]
   },

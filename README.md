@@ -1,7 +1,7 @@
 # snippet-matheco
 Snippet and Syntax highlight for matheco.
 
-matheco is a sort of language based on C build by love :heart: and bison/flex, it is still under development :construction: by the way.
+matheco is a sort of language based on C build by bison/flex, it is still under development by the way.
 
 You can get the compiler from [here](https://raw.githubusercontent.com/splimter/snippet-matheco/master/matheco.exe).
 
