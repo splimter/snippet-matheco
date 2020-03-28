@@ -5,10 +5,5 @@
     {
         'match': "\\b(max|min|sort|add|mul|sub|div|fact|sqrt|pow|exp|log|cos|sin|tan|cosr|sinr|tanr|eq|neq|geq|leq)\\b"
         'name': 'token.keyword'
-    },
-    {
-        'match': ".*\(\).*"
-        'name': "invalid.illegal "
-        'comment': "must not be empty"
     }
 ]
